@@ -33,6 +33,9 @@ article>nav {
     width:40%;
     float:right;
 }
+.left{
+	width:55%;
+}
 .right{
 	    font-size: 0.7em;
 }
